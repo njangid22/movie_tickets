@@ -3,6 +3,8 @@
 #include"moviedetails.c"
 #include"decleration.c" 
 #include<strings.h>
+
+
 struct moviedetails person[300];
 int count=0;
 int id2=1000;
